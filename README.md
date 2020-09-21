@@ -6,4 +6,3 @@
 - 💬 Ask me about Python3 and Flutter Development
 - 📫 How to reach me: +9148388742 or thebossprosniper@gmail.com
 - ⚡ Fun fact: I'm 14!
--->
