@@ -7,5 +7,4 @@
 - 📫 How to reach me: +9148388742 or thebossprosniper@gmail.com
 - ⚡ Fun fact: I'm 14!
 
-#### Tejas's Github Stats
-https://github-readme-stats.vercel.app/api?username=TheBossProSniper&show_icons=true&hide=[%22issues%22]
+![Tejas's Github Stats](https://github-readme-stats.vercel.app/api?username=TheBossProSniper&show_icons=true&hide=[%22issues%22])
