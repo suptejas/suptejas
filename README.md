@@ -1,4 +1,4 @@
-### Hey I'm Tejas 👋
+### Hey I'm TheBossProSniper 👋
 
 - 🔭 I’m currently working on a Package Manager, and a Large Flutter App
 - 🌱 I’m currently learning Electron JS, HTML, CSS
