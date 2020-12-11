@@ -1,6 +1,6 @@
-### Hey I'm TheBossProSniper 👋
+### Hey I'm TheBossProSniper
 
-- 🔭 I’m currently working on a electric
+- 🔭 I’m currently working on Electric
 - 🌱 I’m currently learning Electron JS, HTML, CSS
 - 👯 I’m looking to collaborate on the electric Package Manager!
 - 💬 Ask me about Python 3 and Flutter Development
