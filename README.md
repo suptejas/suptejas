@@ -110,14 +110,6 @@ HTML                     1 repo             ██░░░░░░░░░░
 JavaScript               1 repo             ██░░░░░░░░░░░░░ 
 ```
 
-
-**Timeline**
-
-![Chart not found](https://raw.githubusercontent.com/minoveaz/minoveaz/master/charts/bar_graph.png) 
-
-
-<!--END_SECTION:waka-->
-
 <hr>
 
 <h2  align="center">💻 Check Out My Repos ⬇️ </h2>
