@@ -1,7 +1,5 @@
 # Hey, I'm the XtremeDevX 👋
 
--  I'm currently learning web development with HTML, CSS and TypeScript along with React Framework. I'm also looking forward to learning how to use the Electron :electron: framework to build amazing desktop applications! 
-
 
 <h3 align="center">🎖 Contribution Streak</h3>
 
@@ -54,6 +52,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xtremedevx&count_private=true)](https://github.com/xtremedevx/github-readme-stats)
 
 <hr>
+
+-  I'm currently learning web development with HTML, CSS and TypeScript along with React Framework. I'm also looking forward to learning how to use the Electron :electron: framework to build amazing desktop applications! 
 
 <!--START_SECTION:waka-->
 
