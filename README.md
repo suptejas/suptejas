@@ -1,4 +1,4 @@
-### Hey, I'm XtremeDevX 👋
+# Hey, I'm the XtremeDevX 👋
 
 -  I'm currently learning web development with HTML, CSS and TypeScript along with React Framework. I'm also looking forward to learning how to use the Electron :electron: framework to build amazing desktop applications! 
 
@@ -17,7 +17,7 @@
 
 <hr>
 
-<h2 align="center"> - ⚡ Developer Of Electric - A fast, futuristic package manager. </h2>
+<h2 align="center"> ⚡ Developer Of Electric - A fast, futuristic package manager. </h2>
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=electric-package-manager&repo=electric)](https://github.com/electric-package-manager/electric)
 <br>
