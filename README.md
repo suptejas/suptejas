@@ -2,24 +2,32 @@
 
 -  I'm currently learning web development with HTML, CSS and TypeScript along with React Framework. I'm also looking forward to learning how to use the Electron :electron: framework to build amazing desktop applications! 
 
-🚀 Some of my main projects:
 
-- ⚡ I’m currently working Electric - A fast, futuristic package manager:
+<h3 align="center">🎖 Contribution Streak</h3>
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=electric-package-manager&repo=electric)](https://github.com/electric-package-manager/electric)
+<p align="center">
+  <a href="https://gh-contribution-stats.herokuapp.com/?user=XtremeDevX">
+    <img src="https://gh-contribution-stats.herokuapp.com/?user=XtremeDevX&theme=dark"/>
+  </a> 
+</p>
 <br>
-
-<p> 
+<p align="center"> 
 📫  Born in Bangalore, India <img src="https://www.flaticon.com/svg/vstatic/svg/3909/3909444.svg?token=exp=1614779588~hmac=77129e0cbf9e8bf570140b9ca4da5cd8" width="13"/>
 </p>
 
 <hr>
 
-## Follow Me
+<h2 align="center"> - ⚡ Developer Of Electric - A fast, futuristic package manager. </h2>
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=electric-package-manager&repo=electric)](https://github.com/electric-package-manager/electric)
+<br>
 
 
-[![Gmail Badge](https://img.shields.io/badge/-xtremedevx@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:xtremedevx@gmail.com)](mailto:xtremedevx@gmail.com)
+<h2 align="center"> Follow Me </h2>
+
+
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white&link=https://github.com/minoveaz)](https://github.com/XtremeDevX)
+[![Gmail Badge](https://img.shields.io/badge/-xtremedevx@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:xtremedevx@gmail.com)](mailto:xtremedevx@gmail.com)
 
 <hr>
 
@@ -40,7 +48,9 @@
 <hr>
 
 ![Tejas's Github Stats](https://github-readme-stats.codestackr.vercel.app/api?username=xtremedevx&show_icons=true&hide_border=true&count_private=true&include_all_commits=true)
+
 <br>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xtremedevx&count_private=true)](https://github.com/xtremedevx/github-readme-stats)
 
 <hr>
