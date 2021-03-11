@@ -17,7 +17,9 @@
 
 <h2 align="center"> ⚡ Developer Of Electric - A fast, futuristic package manager. </h2>
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=electric-package-manager&repo=electric)](https://github.com/electric-package-manager/electric)
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=electric-package-manager&repo=electric" />
+</p>
 <br>
 
 
