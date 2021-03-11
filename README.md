@@ -24,11 +24,12 @@
 
 
 <h2 align="center"> Follow Me </h2>
+<p align="center">
+<img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white&link=https://github.com/minoveaz">
 
+<img src="https://img.shields.io/badge/-xtremedevx@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:xtremedevx@gmail.com">
 
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white&link=https://github.com/minoveaz)](https://github.com/XtremeDevX)
-[![Gmail Badge](https://img.shields.io/badge/-xtremedevx@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:xtremedevx@gmail.com)](mailto:xtremedevx@gmail.com)
-
+</p>
 <hr>
 
 ## ⚡ Technologies
