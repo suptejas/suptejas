@@ -33,26 +33,35 @@
 
 ## ⚡ Technologies
 
-![Python](https://img.shields.io/badge/-python-black?style=flat-square&logo=python)
-![Flutter](https://img.shields.io/badge/-flutter-black?style=flat-square&logo=flutter)
-![Dart](https://img.shields.io/badge/-dart-black?style=flat-square&logo=dart)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=firebase)
-![JavaScript](https://img.shields.io/badge/-Python-black?style=flat-square&logo=javascript)
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+<p align="center">
+  
+<img src="https://img.shields.io/badge/-python-black?style=flat-square&logo=python">
+<img src="https://img.shields.io/badge/-flutter-black?style=flat-square&logo=flutter">
+<img src="https://img.shields.io/badge/-dart-black?style=flat-square&logo=dart">
+<img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git">
+<img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github">
+<img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb">
+<img src="https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=firebase">
+<img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=javascript">
+<img src=https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js>
+<img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3">
+
+</p>
+
+<h2 align="center"> 😺 Github Stats </h2>
 
 <hr>
 
-![Tejas's Github Stats](https://github-readme-stats.codestackr.vercel.app/api?username=xtremedevx&show_icons=true&hide_border=true&count_private=true&include_all_commits=true)
+<p align="center">
+  
+<img src="https://github-readme-stats.codestackr.vercel.app/api?username=xtremedevx&show_icons=true&hide_border=true&count_private=true&include_all_commits=true">
 
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xtremedevx&count_private=true)](https://github.com/xtremedevx/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xtremedevx&count_private=true">
 
+</p>
 <hr>
 
 -  I'm currently learning web development with HTML, CSS and TypeScript along with React Framework. I'm also looking forward to learning how to use the Electron :electron: framework to build amazing desktop applications! 
