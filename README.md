@@ -25,7 +25,7 @@
 
 <h2 align="center"> Follow Me </h2>
 <p align="center">
-<img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white&link=https://github.com/minoveaz">
+<img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white&link=https://github.com/xtremedevx">
 
 <img src="https://img.shields.io/badge/-xtremedevx@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:xtremedevx@gmail.com">
 
@@ -43,7 +43,7 @@
 <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github">
 <img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb">
 <img src="https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=firebase">
-<img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=javascript">
+<img src="https://img.shields.io/badge/-Javascript-black?style=flat-square&logo=javascript">
 <img src=https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js>
 <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3">
