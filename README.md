@@ -56,11 +56,11 @@
 
 <p align="center">
   
-<img src="https://github-readme-stats.codestackr.vercel.app/api?username=xtremedevx&show_icons=true&hide_border=true&count_private=true&include_all_commits=true">
+<img src="https://github-readme-stats-codestackr.vercel.app/api?username=xtremedevx&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical">
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xtremedevx&count_private=true">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xtremedevx&count_private=true&theme=radical">
 
 </p>
 <hr>
