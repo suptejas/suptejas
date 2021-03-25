@@ -10,7 +10,7 @@
 </p>
 <br>
 <p align="center"> 
-📫  Born in Bangalore, India <img src="https://www.flaticon.com/svg/vstatic/svg/3909/3909444.svg?token=exp=1614779588~hmac=77129e0cbf9e8bf570140b9ca4da5cd8" width="13"/>
+📫  Born in Bangalore, India
 </p>
 
 <hr>
