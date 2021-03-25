@@ -54,6 +54,10 @@
 <img src="https://img.shields.io/badge/-XCode-black?style=flat-square&logo=xcode">
 <img src="https://img.shields.io/badge/-JSON-black?style=flat-square&logo=json">
 <img src="https://img.shields.io/badge/-Powershell-black?style=flat-square&logo=powershell">
+<img src="https://img.shields.io/badge/-Express-black?style=flat-square&logo=express">
+<img src="https://img.shields.io/badge/-Flask-black?style=flat-square&logo=flask">
+<img src="https://img.shields.io/badge/-Npm-black?style=flat-square&logo=npm">
+<img src="https://img.shields.io/badge/-Yarn-black?style=flat-square&logo=yarn">
 
 </p>
 
