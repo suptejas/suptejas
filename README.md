@@ -58,6 +58,7 @@
 <img src="https://img.shields.io/badge/-Flask-black?style=flat-square&logo=flask">
 <img src="https://img.shields.io/badge/-Npm-black?style=flat-square&logo=npm">
 <img src="https://img.shields.io/badge/-Yarn-black?style=flat-square&logo=yarn">
+<img src="https://img.shields.io/badge/-rust-black?style=flat-square&logo=rust">
 
 </p>
 
