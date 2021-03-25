@@ -51,7 +51,9 @@
 <img src="https://img.shields.io/badge/-Electron-black?style=flat-square&logo=electron">
 <img src="https://img.shields.io/badge/-Jquery-black?style=flat-square&logo=jquery">
 <img src="https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap">
-<img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react">
+<img src="https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap">
+<img src="https://img.shields.io/badge/-XCode-black?style=flat-square&logo=xcode">
+<img src="https://img.shields.io/badge/-JSON-black?style=flat-square&logo=json">
 
 </p>
 
