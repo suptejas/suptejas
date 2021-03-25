@@ -43,10 +43,15 @@
 <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github">
 <img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb">
 <img src="https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=firebase">
-<img src="https://img.shields.io/badge/-Javascript-black?style=flat-square&logo=javascript">
 <img src=https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js>
 <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3">
+<img src="https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript">
+<img src="https://img.shields.io/badge/-Swift-black?style=flat-square&logo=swift">
+<img src="https://img.shields.io/badge/-Electron-black?style=flat-square&logo=electron">
+<img src="https://img.shields.io/badge/-Jquery-black?style=flat-square&logo=jquery">
+<img src="https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap">
+<img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react">
 
 </p>
 
