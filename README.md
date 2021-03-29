@@ -10,7 +10,11 @@
 </p>
 <br>
 <p align="center"> 
-📫  Born in Bangalore, India
+⚡  14 Years Old
+</p>
+
+<p align="center"> 
+📫   Born in Bangalore, India
 </p>
 
 <hr>
@@ -24,15 +28,17 @@
 
 
 <h2 align="center"> Follow Me </h2>
+
 <p align="center">
 <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white&link=https://github.com/xtremedevx">
 
-<img src="https://img.shields.io/badge/-xtremedevx@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:xtremedevx@gmail.com">
+<img src="https://img.shields.io/badge/-xtremedevx@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:xtremedevx@electric.sh">
+
 
 </p>
 <hr>
 
-## ⚡ Technologies
+<h2 align="center"> 💻 Technologies </h2>
 
 <p align="center">
   
@@ -51,7 +57,7 @@
 <img src="https://img.shields.io/badge/-iOS-black?style=flat-square&logo=ios">
 <img src="https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3">
-<img src="https://img.shields.io/badge/-SCSS-black?style=flat-square&logo=scss">
+<img src="https://img.shields.io/badge/-SCSS-black?style=flat-square&logo=sass">
 <img src="https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap">
 <img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react">
 <img src="https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript">
@@ -88,21 +94,27 @@
 
 <hr>
 
--  I'm currently learning web development with HTML, CSS and TypeScript along with React Framework. I'm also looking forward to learning how to use the Electron :electron: framework to build amazing desktop applications! 
+<h2 align="center">About</h2>
 
-<!--START_SECTION:waka-->
+```rust
+struct XtremeDevX {
+  name: String,
+  age: u8,
+  languages: Vec<&str>,
+  projects: Vec<&str>,
+  contact: String,
+}
 
-**🐱 My Github Data** 
-
-> 🏆 6 Contributions in the Year 2021
- > 
-> 📦 60+ Megabytes Used in Github's Storage 
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 6 Public Repositories 
- > 
-> 🔑 6 Private Repositories  
+fn main() {
+  let xtremedevx = XtremeDevX {
+    name: String::from("Tejas Ravishankar"),
+    age: 14,
+    languages: vec!["Rust", "Python 3", "TypeScript"],
+    projects: ["Electric", "DevMark"],
+    contact: "xtremedevx@electric.sh"
+  }
+}
+```
 
 <hr>
 
