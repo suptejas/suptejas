@@ -74,9 +74,11 @@
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xtremedevx&count_private=true&theme=radical">
-
+## <div align="center"><img align="center" height="40px" width="50px" src="https://img.icons8.com/nolan/64/activity-feed.png"/><span align="center"> Coding Activity</span></div>
+<p align="center">
+  <img width="500px" src="https://github-readme-stats.vercel.app/api/wakatime?username=XtremeDevX&theme=radical&hide_title=true" />
 </p>
+
 <hr>
 
 -  I'm currently learning web development with HTML, CSS and TypeScript along with React Framework. I'm also looking forward to learning how to use the Electron :electron: framework to build amazing desktop applications! 
@@ -94,57 +96,6 @@
 > 📜 6 Public Repositories 
  > 
 > 🔑 6 Private Repositories  
- > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning    8 commits     █░░░░░░░░░░░░░░░░░░░░░░░░░░   
-🌆 Daytime    8 commits     ██████░░░░░░░░░░░░░░░░░░░░░   
-🌃 Evening    9 commits     ███████░░░░░░░░░░░░░░░░░░░░    
-🌙 Night      18 commits    ███████████████░░░░░░░░░░░░   
-
-```
-📅 **I'm Most Productive on Friday** 
-
-```text
-Monday       25 commits     ███░░░░░░░░░░░░░░░░░    
-Tuesday      27 commits     ███░░░░░░░░░░░░░░░░░    
-Wednesday    18 commits     ██░░░░░░░░░░░░░░░░░░   
-Thursday     25 commits     ████░░░░░░░░░░░░░░░░
-Friday       55 commits     ████████░░░░░░░░░░░░
-Saturday     10 commits     ███░░░░░░░░░░░░░░░░░   
-Sunday       10 commits     ███░░░░░░░░░░░░░░░░░
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Kolkata/India
-
-💬 Programming Languages: 
-Python 3.9
-
-🔥 Editors: 
-Visual Studio Code Insiders
-
-🐱‍💻 Projects: 
-⚡ Electric Package Manager
-
-💻 Operating System: 
-Windows 10
-
-```
-
-**I Mostly Code in Python** 
-
-```text
-Python                   5 repos            ██████████░░░░░  
-Dart                     3 repo             ██████░░░░░░░░░   
-HTML                     1 repo             ██░░░░░░░░░░░░░   
-JavaScript               1 repo             ██░░░░░░░░░░░░░ 
-```
 
 <hr>
 
