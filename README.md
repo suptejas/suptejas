@@ -97,7 +97,7 @@
 <h2 align="center">About</h2>
 
 ```rust
-struct XtremeDevX {
+struct Developer {
   name: String,
   age: u8,
   languages: Vec<&str>,
@@ -106,7 +106,7 @@ struct XtremeDevX {
 }
 
 fn main() {
-  let xtremedevx = XtremeDevX {
+  let xtremedevx: Developer = Developer {
     name: String::from("Tejas Ravishankar"),
     age: 14,
     languages: vec!["Rust", "Python 3", "TypeScript"],
