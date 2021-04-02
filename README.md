@@ -60,6 +60,7 @@
 <img src="https://img.shields.io/badge/-SCSS-black?style=flat-square&logo=sass">
 <img src="https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap">
 <img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react">
+<img src=https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=Next.js>
 <img src="https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript">
 <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript">
 <img src=https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=Node.js>
