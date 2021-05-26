@@ -42,7 +42,7 @@
 
 <p align="center">
   
-<img src="https://img.shields.io/badge/-python-black?style=flat-square&logo=python">
+<img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=python">
 <img src="https://img.shields.io/badge/-Rust-black?style=flat-square&logo=rust">
 <img src="https://img.shields.io/badge/-flutter-black?style=flat-square&logo=flutter">
 <img src="https://img.shields.io/badge/-dart-black?style=flat-square&logo=dart">
