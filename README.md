@@ -19,12 +19,20 @@
 
 <hr>
 
+<h2 align="center"> ⚡ Developer Of Volt - The next-generation Node.js package manager. </h2>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=voltpkg&repo=volt" />
+</p>
+<br>
+
 <h2 align="center"> ⚡ Developer Of Electric - A fast, futuristic package manager. </h2>
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=electric-package-manager&repo=electric" />
 </p>
 <br>
+
+
 
 
 <h2 align="center"> Follow Me </h2>
@@ -84,7 +92,7 @@
 
 <p align="center">
   
-<img src="https://github-readme-stats-codestackr.vercel.app/api?username=xtremedevx&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical">
+<img src="https://github-readme-stats.vercel.app/api?username=XtremeDevX&count_private=true&show_icons=true&theme=dracula&include_all_commits=true&hide_title=true">
 
 <br>
 
