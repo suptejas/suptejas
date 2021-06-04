@@ -111,8 +111,8 @@ fn main() {
     name: String::from("Tejas Ravishankar"),
     age: 14,
     languages: vec!["Rust", "Python 3", "TypeScript"],
-    projects: ["Electric", "DevMark"],
-    contact: "xtremedevx@electric.sh"
+    projects: ["Electric", "Volt"],
+    contact: String::from("xtremedevx@electric.sh")
   }
 }
 ```
