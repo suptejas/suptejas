@@ -117,9 +117,9 @@ struct Developer {
 fn main() {
   let xtremedevx: Developer = Developer {
     name: String::from("Tejas Ravishankar"),
-    age: 14,
+    age: 15,
     languages: vec!["Rust", "Python 3", "TypeScript"],
-    projects: ["Electric", "Volt"],
+    projects: vec!["Electric", "Volt"],
     contact: String::from("xtremedevx@electric.sh")
   }
 }
