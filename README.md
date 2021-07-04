@@ -19,13 +19,13 @@
 
 <hr>
 
-<h2 align="center"> ⚡ Developer Of Volt - The next-generation Node.js package manager. </h2>
+<h2 align="center"> ⚡ Founder Of Volt - The next-generation Node.js package manager. </h2>
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=voltpkg&repo=volt" />
 </p>
 <br>
 
-<h2 align="center"> ⚡ Developer Of Electric - A fast, futuristic package manager. </h2>
+<h2 align="center"> ⚡ Founder Of Electric - A fast, futuristic package manager. </h2>
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=electric-package-manager&repo=electric" />
