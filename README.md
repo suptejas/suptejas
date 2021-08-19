@@ -32,59 +32,8 @@
 </p>
 <br>
 
-
-
-
-<h2 align="center"> Follow Me </h2>
-
-<p align="center">
-<img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white&link=https://github.com/xtremedevx">
-
-<img src="https://img.shields.io/badge/-xtremedevx@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:xtremedevx@electric.sh">
-
-
 </p>
 <hr>
-
-<h2 align="center"> 💻 Technologies </h2>
-
-<p align="center">
-  
-<img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=python">
-<img src="https://img.shields.io/badge/-Rust-black?style=flat-square&logo=rust">
-<img src="https://img.shields.io/badge/-flutter-black?style=flat-square&logo=flutter">
-<img src="https://img.shields.io/badge/-dart-black?style=flat-square&logo=dart">
-<img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git">
-<img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github">
-<img src="https://img.shields.io/badge/-GitLab-black?style=flat-square&logo=gitlab">
-<img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb">
-<img src="https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=firebase">
-<img src="https://img.shields.io/badge/-Realm-black?style=flat-square&logo=realm">
-<img src="https://img.shields.io/badge/-Swift-black?style=flat-square&logo=swift">
-<img src="https://img.shields.io/badge/-XCode-black?style=flat-square&logo=xcode">
-<img src="https://img.shields.io/badge/-iOS-black?style=flat-square&logo=ios">
-<img src="https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3">
-<img src="https://img.shields.io/badge/-SCSS-black?style=flat-square&logo=sass">
-<img src="https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap">
-<img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react">
-<img src=https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=Next.js>
-<img src="https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript">
-<img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript">
-<img src=https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=Node.js>
-<img src="https://img.shields.io/badge/-Electron-black?style=flat-square&logo=electron">
-<img src="https://img.shields.io/badge/-JQuery-black?style=flat-square&logo=jquery">
-<img src="https://img.shields.io/badge/-Android-black?style=flat-square&logo=android">
-<img src="https://img.shields.io/badge/-JSON-black?style=flat-square&logo=json">
-<img src="https://img.shields.io/badge/-Powershell-black?style=flat-square&logo=powershell">
-<img src="https://img.shields.io/badge/-Express-black?style=flat-square&logo=express">
-<img src="https://img.shields.io/badge/-Flask-black?style=flat-square&logo=flask">
-<img src="https://img.shields.io/badge/-Npm-black?style=flat-square&logo=npm">
-<img src="https://img.shields.io/badge/-Yarn-black?style=flat-square&logo=yarn">
-<img src="https://img.shields.io/badge/-Discord-black?style=flat-square&logo=discord">
-<img src="https://img.shields.io/badge/-C++-black?style=flat-square&logo=C++">
-
-</p>
 
 <h2 align="center"> 😺 Github Stats </h2>
 
@@ -119,8 +68,8 @@ fn main() {
     name: String::from("Tejas Ravishankar"),
     age: 15,
     languages: vec!["Rust", "Python 3", "TypeScript"],
-    projects: vec!["Electric", "Volt"],
-    contact: String::from("xtremedevx@electric.sh")
+    projects: vec!["Volt", "Electric"],
+    contact: String::from("xtremedevx@gmail.com")
   }
 }
 ```
