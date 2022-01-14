@@ -1,4 +1,4 @@
-![Info](https://media.discordapp.net/attachments/805333441570144257/931559452321153044/Group_1_2.png)
+![Group 1](https://user-images.githubusercontent.com/63039748/149534847-ca09e846-3416-4b56-8d6b-59a4f99615d5.png)
 
 ##### About Me
 
