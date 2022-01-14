@@ -1,4 +1,4 @@
-#  👋 I'm Tejas
+![Info](https://media.discordapp.net/attachments/805333441570144257/931559452321153044/Group_1_2.png)
 
 ##### About Me
 
