@@ -2,7 +2,7 @@
 
 ##### About Me
 
-- ✨ Founding [volt](https://github.com/voltpkg/volt), [hydralite](https://github.com/hydralite/hydralite), [electric](https://github.com/electric-package-manager/electric) and [skyline](https://github.com/skyline-editor/skyline)
+- ✨ Currently Developing [volt](https://github.com/voltpkg/volt), [hydralite](https://github.com/hydralite/hydralite)
 - Busy complaining about how 🌐 networking is painfully slow and how Windows needs to speed up their filesystem.
 - 🦀 Rustacean
 
