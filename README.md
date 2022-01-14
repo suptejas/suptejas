@@ -1,6 +1,4 @@
-# Hey, I'm Tejas
-
-#### I'm a Student / Aspiring Software Engineer working at Dubai.
+#  👋 I'm Tejas
 
 ##### About Me
 
