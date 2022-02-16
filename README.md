@@ -12,5 +12,5 @@
 - 🌍 I'm mostly active within the **Rust Community**
 - 🌱 Learning all about **Systems Programming**
 - 💬 Ping me about **Rust**, **Systems Programming**, **Networking** and **IO**
-- 📫 Reach me: [twitter.com/xtremedevx](https://twitter.com/xtremedevx) or `xtremedevx#0218` on Discord.
+- 📫 Reach me: [twitter.com/xtremedevx](https://twitter.com/xtremedevx) or `tejas#0001` on Discord.
 - ⚡️ Fun fact: I'm 15 years old!
