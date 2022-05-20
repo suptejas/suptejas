@@ -2,7 +2,7 @@
 
 ##### About Me
 
-- ✨ Currently Developing [volt](https://github.com/voltpkg/volt), [dimension](https://github.com/dimensionhq)
+- ✨ Currently Developing [dimension](https://github.com/dimensionhq), [fleet](https://github.com/dimensionhq/fleet)
 - Busy complaining about how 🌐 networking is painfully slow and how Windows needs to speed up their filesystem.
 - 🦀 Rustacean
 
